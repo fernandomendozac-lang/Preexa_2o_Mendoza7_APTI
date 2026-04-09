@@ -2,7 +2,7 @@
 
 **Nombre del Proyecto:** Preexa Mendoza Seguridad IT  
 **Materia:** Administración de Seguridad Informática  
-**Estudiante:** [Tu Nombre Aquí]  
+**Estudiante:** Mendoza Carrillo Fernando
 
 ---
 
